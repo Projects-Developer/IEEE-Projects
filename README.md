@@ -1,6 +1,8 @@
 # IEEE-Projects
 The IEEE Projects are a collection of innovative and cutting-edge research projects that aim to solve real-world problems using advanced technologies. 
 
+![IEEE Projects ](https://github.com/user-attachments/assets/f2d108df-3c58-4759-9ddc-a2a86375db1c)
+
 ## Youtube link: https://youtu.be/T0wEstYgztU?si=lO1PFQcwOJEnHlBU
 
 ## Abstract
